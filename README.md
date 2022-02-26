@@ -27,12 +27,12 @@ Log into the SQL database on the UCCE logger or AW and execute the command to ve
 
 ## Step by Step
 
-    Download python script based on the operating system you use to run the script.
-    PIP install the requirements.
-    Edit the file with your IP Address, password and databae name.
-    Edit the python script to open and then print out a text file on your PC. The path in this script will be different than your own.
-    Run the script.
-    The script will pop open a notepad text file when completed.
+    - Download python script based on the operating system you use to run the script.
+    - PIP install the requirements.
+    - Edit the file with your IP Address, password and databae name.
+    - Edit the python script to open and then print out a text file on your PC. The path in this script will be different than your own.
+    - Run the script.
+    - The script will pop open a notepad text file when completed.
 
 ## Example Output 
 (5000, 5000, 1, None, None, 'ATRRULE1', None, 8, datetime.datetime(2017, 3, 22, 7, 51, 3, 977000))
